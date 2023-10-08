@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>PowerShell Moduel to Send Message Teams using Incoming Webhook</Title>
+    <Description>PowerShell Moduel to Send Message Teams using Incoming Webhook</Description>
+    <Copyright>©https://prax78blog.wordpress.com</Copyright>
+    <PackageProjectUrl>https://prax78blog.wordpress.com</PackageProjectUrl>
+	  <FileVersion>1.0.0</FileVersion>
+	  <Version>1.0.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Management.Automation" Version="7.3.7" />
+  </ItemGroup>
+
+</Project>
